@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## COMP9311 Database Systems
 
-You can use the [editor on GitHub](https://github.com/WayneJz/COMP9311-18S1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### ALL CODES SHOULD BE APPROPRIATELY REFERENCED, COPYING MAY RESULT IN PLAGARISM
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2018S1 
+Lecturer: Xuemin Lin
 
-### Markdown
+### Main Contents
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WayneJz/COMP9311-18S1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. **Database Basis** : Definition of Keys, Constraints...
+2. **ER Modelling** : Entity-Relation (ER) Diagram, Enhanced ER (EER) Diagram, Relational Database Model.
+3. **Relational Algebra** : Projection, Selection, Union... (Basis for SQL)
+4. **SQL/PostgreSQL** : Complex Query, Multi-relation Query, Function Design, Error Handling.
+5. **Concepts of Dependency** : Functional Dependency, Transitive Dependency, Dependency Preserving, Lossless Join.
+6. **Normal Forms** : Definition and Decomposition of 1~3NF and BCNF, Minimal Cover.
+7. **File Systems** : File Storage, Indexing Types, Buffer Replacement Policy.
+8. **Transaction Management** : 
