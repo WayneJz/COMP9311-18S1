@@ -19,8 +19,8 @@ Lecturer: Xuemin Lin
 ### Assessment Details
 
 1. **Assignment 1** : ER Diagram, Relational Database Model, Relational Algebra. Mark:9.8/10.
-2. **Assignment 2** : Normal Form Decomposition, Database Recovery, Buffer Replacement Policy. Mark:10/10.
-3. **Assignment 3** : Graph Pattern Frequency, NEC Tree Decomposition, Application of Graph Processing (Max Flow). Mark:10/10.
+2. **Assignment 2** : Normal Form Decomposition, Database Recovery, Buffer Replacement Policy. Mark:20/20.
+3. **Assignment 3** : Graph Pattern Frequency, NEC Tree Decomposition, Application of Graph Processing (Max Flow). Mark:20/20.
 4. **Project 1** : Simple SQL Query and View Creating, SQL Functions, Multi-relation Query with Relational Algebra. Mark:25/25.
 5. **Project 2** : Multi-relation Query with PostgreSQL Functions, Loop and Recursion in PostgreSQL, Error Handling. Mark:21/25.
 
